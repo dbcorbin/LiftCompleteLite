@@ -10,11 +10,13 @@ Excel's basic functions are completely replaced with a custom "Ribbon"
 control set.
 
 Lift Complete Lite manages the flow of compeition from weigh in to 
-final score sheets and medals ranking.
+final score sheets and medals ranking.  User Manual Videos and examples
+are at https://vimeo.com/cwfund 
 
-This repository contains three applications and documentation.
+This repository contains three applications, a small website, and 
+documentation.
 
-Lift Weighin  manages the weigh in procedure and creates competition
+Lift Weigh In  manages the weigh in procedure and creates competition
 cards and protocols.  It creates a "Session" file which is stored for
 later access.
 
@@ -29,6 +31,9 @@ This program shows the loaders which weights are needed for the bar to
 be properly loaded on the platform.  Loader reads a file that is saved
 on the Manager system so that it automatically updates.
 
+There is a specialized small web site that can be used to show a live
+scoresheet through a browser on any device connected to the same LAN.
+
 For best results, all of these systems should be on the same LAN.
 
-Lift Complete Lite runs on Excel 2007 and higher on Windows 7 and later.
+Lift Complete Lite runs on Excel 2007 and newer on Windows 7 and newer.
